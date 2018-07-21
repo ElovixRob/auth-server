@@ -17,7 +17,7 @@
 		<?php include("nav.php"); ?>
 	</div>
 	<div id="container">
-		<span id="message">Unsure how to use this utility?<br>Contract Rob Butler (Ph: 0427 692 532, E: rob@elovix.com.au)</span>
+		<span id="message">Unsure how to use this utility?<br>Contact %SERVERADMIN% (%CONTACTINFO%)</span>
 	</div>
 </body>
 </html>
